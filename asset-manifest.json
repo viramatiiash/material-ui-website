@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/material-ui-website/static/css/main.8a685450.css",
+    "main.js": "/material-ui-website/static/js/main.9da04725.js",
+    "static/media/avatar.jpg": "/material-ui-website/static/media/avatar.24ae038109a0c681869c.jpg",
+    "static/media/boy2.jpg": "/material-ui-website/static/media/boy2.880088f4457e5a078ea7.jpg",
+    "static/media/man1.jpg": "/material-ui-website/static/media/man1.6dff1f94c4ed526d1457.jpg",
+    "static/media/man3.jpg": "/material-ui-website/static/media/man3.29b91cdfc16235dbd54e.jpg",
+    "static/media/dough.webp": "/material-ui-website/static/media/dough.cbb7ebd552c701817f7e.webp",
+    "static/media/bisquits.webp": "/material-ui-website/static/media/bisquits.f11e5c919b3de83af330.webp",
+    "static/media/meatball.webp": "/material-ui-website/static/media/meatball.ee2f02912ba95a242ee0.webp",
+    "static/media/soup.webp": "/material-ui-website/static/media/soup.f6b6e9f83a863c756a37.webp",
+    "static/media/muffins.webp": "/material-ui-website/static/media/muffins.a2c57d9b49d707cf1c01.webp",
+    "static/media/woman3.webp": "/material-ui-website/static/media/woman3.3dea9f437e2ea9a886fd.webp",
+    "static/media/boy3.jpeg": "/material-ui-website/static/media/boy3.2991ee7deae75978fb37.jpeg",
+    "static/media/girl2.jpg": "/material-ui-website/static/media/girl2.e4decb9b5a2d63f6d8dd.jpg",
+    "static/media/girl3.jpg": "/material-ui-website/static/media/girl3.e5c8bbeaf149339a6ddd.jpg",
+    "static/media/pasta.jpg": "/material-ui-website/static/media/pasta.3e180380c702e04b0a5f.jpg",
+    "static/media/man2.webp": "/material-ui-website/static/media/man2.9606586ba4bd9476b8e6.webp",
+    "static/media/woman1.avif": "/material-ui-website/static/media/woman1.cc6acba0050f6a3ddf77.avif",
+    "static/media/girl1.jpg": "/material-ui-website/static/media/girl1.33fbd12e5c9f2603ad15.jpg",
+    "static/media/woman2.jpg": "/material-ui-website/static/media/woman2.90bded9b6422491b08e0.jpg",
+    "static/media/boy1.webp": "/material-ui-website/static/media/boy1.65efda19fc33a1892274.webp",
+    "index.html": "/material-ui-website/index.html",
+    "main.8a685450.css.map": "/material-ui-website/static/css/main.8a685450.css.map",
+    "main.9da04725.js.map": "/material-ui-website/static/js/main.9da04725.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a685450.css",
+    "static/js/main.9da04725.js"
+  ]
+}
